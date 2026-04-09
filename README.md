@@ -14,6 +14,8 @@
  - The printed parts can be ready in two or three days, depending of the requiered quantity and parts size.
  - The cost of buying compared with 3D printing was reduced by 20%.
 
+   Here are some of the spare parts models:
+
 <img width="253" height="259" alt="Part 01" src="https://github.com/user-attachments/assets/46fcde4c-c9de-46fd-89d4-97d086c8225f" />
 <img width="447" height="273" alt="Part 02" src="https://github.com/user-attachments/assets/489afd0d-0e5f-49c4-8c93-b1329ea964cd" />
 <img width="300" height="300" alt="Part 03" src="https://github.com/user-attachments/assets/5f0626ec-7946-4ebe-95f7-b74328c5678c" />
