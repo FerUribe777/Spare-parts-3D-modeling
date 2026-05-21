@@ -7,9 +7,9 @@
 
 **The solution**
 
- - Modeling the parts to print them in 3D with a new SLS 3D printer.
+ - 3D Modeling of the parts to print them with a FDM and SLS 3D printer.
 
-**The result**
+**Outcomes**
 
  - The printed parts can be ready in two or three days, depending of the requiered quantity and parts size.
  - The cost of buying compared with 3D printing was reduced by 20%.
